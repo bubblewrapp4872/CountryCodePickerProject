@@ -338,6 +338,11 @@
             name_code="et"
             phone_code="251" />
         <country
+            name="European Union"
+            english_name="European Union"
+            name_code="eu"
+            phone_code="777" />
+        <country
             name="Finland"
             english_name="Finland"
             name_code="fi"
