@@ -339,6 +339,11 @@
             phone_code="251" />
         <country
             name="TODO: replace with  translated country name"
+            english_name="European Union"
+            name_code="eu"
+            phone_code="777" />
+        <country
+            name="TODO: replace with  translated country name"
             english_name="Finland"
             name_code="fi"
             phone_code="358" />
